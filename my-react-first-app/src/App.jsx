@@ -66,7 +66,8 @@ import Score from "./Score";
 
 
 function App(){
-return(<><Prices/>
+return(<>
+<h1>modified code</h1><Prices/>
 <Apples/>
 <Score/>
 <Increment/>
